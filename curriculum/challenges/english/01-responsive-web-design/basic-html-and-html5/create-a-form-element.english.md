@@ -15,7 +15,7 @@ For example:
 
 ## Instructions
 <section id='instructions'>
-Nest your text field inside a <code>form</code> element, and add the <code>action="/submit-cat-photo"</code> attribute to the form element.
+Nest your text input element inside a <code>form</code> element, and add the <code>action="/submit-cat-photo"</code> attribute to the form element.
 </section>
 
 ## Tests
